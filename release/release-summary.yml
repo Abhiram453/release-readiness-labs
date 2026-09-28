@@ -2,4 +2,4 @@ status: approved
 environment: production
 version: 2.3.0
 approval: approved
-rollback: configured
+rollback: configured 
